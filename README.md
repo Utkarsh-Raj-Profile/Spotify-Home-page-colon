@@ -1,4 +1,4 @@
-Spotify home page clone.
+### Spotify home page clone.
 
 ----------------------------
 

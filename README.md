@@ -2,4 +2,4 @@
 
 ----------------------------
 
-Bulid using HTML, CSS.
+Bulid using HTML, CSS only.
